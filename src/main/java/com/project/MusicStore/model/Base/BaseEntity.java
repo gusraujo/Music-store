@@ -9,7 +9,6 @@ import java.util.UUID;
 @MappedSuperclass
 public class BaseEntity {
 
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id")

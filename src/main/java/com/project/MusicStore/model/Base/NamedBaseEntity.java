@@ -6,7 +6,7 @@ import org.jetbrains.annotations.NotNull;
 
 
 @MappedSuperclass
-public class NamedBaseEntity extends BaseEntity{
+public class NamedBaseEntity extends BaseEntity {
 
     @NotNull
     @Column(name = "name")

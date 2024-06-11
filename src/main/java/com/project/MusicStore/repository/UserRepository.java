@@ -2,8 +2,8 @@ package com.project.MusicStore.repository;
 
 
 import com.project.MusicStore.model.User;
-import com.project.MusicStore.repository.utils.GenericRepository;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface UserRepository extends GenericRepository<User,Long> {
+public interface UserRepository extends JpaRepository<User,Long> {
 
 }
