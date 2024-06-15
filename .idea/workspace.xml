@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b10d0b82-4c94-4128-ac36-6947887d3884" name="Changes" comment="chore: enhance config">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/service/impl/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Artists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Artists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Base/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Base/NamedBaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Genres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Genres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Payments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Payments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/repository/CartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/repository/CartRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/repository/OrdersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/repository/OrdersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/persistence/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/project/MusicStore/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hiIOQ5Sd2YzbIx04vrvz08NtuM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/araujgus/StudieCode/Projects/Music-store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.project.MusicStore.persistence" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Music-store" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Music-store" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="MusicStore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.MusicStore.MusicStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10d0b82-4c94-4128-ac36-6947887d3884" name="Changes" comment="" />
+      <created>1718070443986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718070443986</updated>
+      <workItem from="1718070451914" duration="9705000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: enhance repository generic">
+      <option name="closed" value="true" />
+      <created>1718070821433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718070821433</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: enhance config">
+      <option name="closed" value="true" />
+      <created>1718072772285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718072772285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: enhance repository generic" />
+    <MESSAGE value="chore: enhance config" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: enhance config" />
+  </component>
+</project>
